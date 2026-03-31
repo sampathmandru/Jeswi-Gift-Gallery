@@ -47,6 +47,14 @@ const Footer = () => {
             <h4 className="font-display text-lg font-bold mb-4">Visit Us</h4>
             <div className="space-y-3 font-body text-sm text-primary-foreground/60">
               <p>📍 Mangalagiri, near Vijayawada, Andhra Pradesh</p>
+              <a
+                href="https://maps.app.goo.gl/Sqc8sJzEuVHy1y7h6"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gold-light hover:underline"
+              >
+                📍 View on Google Maps
+              </a>
               <p>📧 jeswigiftgallery@gmail.com</p>
               <p><p>📞 +91 90101 12020</p></p>
               <p>🕐 Mon – Sat: 10 AM – 8 PM</p>
