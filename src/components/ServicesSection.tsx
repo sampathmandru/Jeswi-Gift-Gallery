@@ -3,7 +3,7 @@ const services = [
   { icon: "📸", title: "Photoshoots", desc: "Creative photography for products, events & personal sessions" },
   { icon: "🎁", title: "Kanyadanam Sets", desc: "Complete traditional kanyadanam sets beautifully packaged" },
   { icon: "🥥", title: "Kobbaribondam Design", desc: "Decorative coconut designs for Telugu wedding rituals" },
-  { icon: "🪔", title: "Aadu Therra Design", desc: "Traditional aadu therra crafted with elegance" },
+  { icon: "🪔", title: "Addu Therra Design", desc: "Traditional addu therra crafted with elegance" },
   { icon: "💝", title: "Personalized Hampers", desc: "Custom gift hampers curated for any celebration" },
 ];
 
